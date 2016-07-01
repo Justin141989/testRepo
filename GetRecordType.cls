@@ -1,6 +1,6 @@
 global class GetRecordType
 {   
-//Test check
+//Test checkk
     webservice static string getRecID(String objName, String recordTypeName)
     {
         try{
